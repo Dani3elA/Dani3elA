@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Daniel Arriaga
+- 👀 I’m interested in AI, Data Analyst, CyberSecurity
+- 🌱 I’m currently learning Python
+- 💞️ I would love to collaborate on challenging and interesting projects where I can improve my skills
+- 📫 How to reach me: 
+- Mail: dfar.py@gmail.com
+- Twitter: @daniel_arriagar
+-
